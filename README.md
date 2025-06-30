@@ -1,1 +1,6 @@
-# CS-320-Contact-Service
+Throughout Projects One and Two, I focused on building and testing software with a strong emphasis on quality, automation, and functionality. To ensure that my code is both functional and secure, I incorporated unit tests using JUnit 5 to validate all methods and edge cases. I followed good testing practices like black box testing and tested for invalid inputs as well as expected behavior. I also made sure to keep code modular and well-documented, which helps maintain integrity and makes it easier to spot bugs or vulnerabilities early in development.
+
+When interpreting user needs, I always start by identifying the key requirements and translating them into specific, testable features. For example, in the contact service, users needed the ability to create, update, and delete contacts safely, so I focused on constraints like input length and non-null values to protect the data and maintain functionality.
+
+My approach to designing software combines practicality with planning. I typically start with a simple class structure based on the functionality required, then build out methods while keeping testability in mind. I like to write unit tests alongside implementation so I can catch issues right away and adjust my logic as needed. Overall, these projects helped reinforce the importance of thoughtful design, clear requirements, and thorough testing to produce reliable and secure software.
+
